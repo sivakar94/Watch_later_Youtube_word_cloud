@@ -1,4 +1,4 @@
-# Topic_modelling
+# wATCH LATER YOUTUBE PLAYLIST
 Topic_Modelling_Youtube
 
 ## Task:
@@ -8,25 +8,21 @@ Using:
 WordCloud to visualize the topics and
 SVD-Single Value Decomposition 
 
-## Methods
-
+## DATASET
 -Got data from my perosonal Watch later JSON file
+
+## METHODS
 -Preprocessing with NLTK
 -Filter stopwords, punctuations, and lowercase
 -Tokenize
--Stem words
 -Visualization with TSNE (a tool to visualize high-dimensional data)
--Model training
 -Support Vector Machine with variety of embeddings, including:
--Bag of words from scratch
 -Tf-Idf Vectorizer
--Word2Vec
 -Combination of Tf-Idf and Word2Vec
 -BERT
 -Neural Network with BERT and PyTorch
 
-## Results
-
+## RESULTS
 Using Tf-Idf achieves the highes f1-score. The result is shown in the table below:
 
 ## I published an article on medium talking about this mini project:
