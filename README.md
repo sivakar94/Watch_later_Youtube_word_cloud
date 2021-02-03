@@ -24,6 +24,10 @@ SVD-Single Value Decomposition
 
 ## RESULTS
 Using Tf-Idf achieves the highes f1-score. The result is shown in the table below:
+## Picuture to be inserted
 
-## I published an article on medium talking about this mini project:
+
+## I published a blog on medium(Towrds data Science) talking about this project  
+
+
 https://towardsdatascience.com/what-does-your-word-cloud-say-about-your-youtube-watch-later-playlist-e75e262c4e26
